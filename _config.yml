@@ -1,15 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: uniapp开源社区
+email: 191010848@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  uniapp开源社区主要分享uniapp模板、组件、js sdk、原生sdk，欢迎大家勇于投稿，分享作品。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-facebook_username: jekyll
+url: "http://uniapp.red" # the base hostname & protocol for your site
+twitter_username: 无
+github_username:  无
+facebook_username: 无
 google_play: 'GDGX'
 google_plus_com: '109485346959707049693'  # Community link
 google_plus_per: '+GDGManagua'  #Personal link
